@@ -1,0 +1,6 @@
+{
+  "name": "MediScan AI",
+  "description": "Adaptive AI-driven medical scan analysis system for kidney stone detection and clinical decision support.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
